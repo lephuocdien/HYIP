@@ -158,20 +158,3 @@ insert into STATUSS values('NOT JOIN')
 
 
 --------------test
-select * from MONITOR
-select * from STATUSS 
-select * from WEBHYIP
-select * from ChartWebHyip
-select * from RUNNING
-select *  from TrackingWebHYIPDatabase where MaWeb=14
-select * from TrackingWebHYIP where AddressWeb='https://cryptosolutions.biz'
-update TrackingWebHYIP set Good=1 where ID =14
-
-
-select trac.ID,trac.AddressWeb
-from TrackingWebHYIPDatabase trackdata, TrackingWebHYIP trac
-where trac.Good=1 and trac.ID = trackdata.MaWeb and DATEDIFF(day,trackdata.Today,GETDATE()) =0 and trackdata.Deposit -(
-	select trackdata1.Deposit
-	from TrackingWebHYIPDatabase trackdata1
-	where  DATEDIFF(day,trackdata1.Today,GETDATE()) =1 and trackdata1.MaWeb = trackdata.MaWeb
-) >30000
