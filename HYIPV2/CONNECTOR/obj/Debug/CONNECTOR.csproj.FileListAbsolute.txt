@@ -1,0 +1,7 @@
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Debug\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Debug\CONNECTOR.pdb
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Debug\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Debug\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Debug\CONNECTOR.csprojResolveAssemblyReference.cache
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Debug\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Debug\CONNECTOR.pdb

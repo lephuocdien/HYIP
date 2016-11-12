@@ -1,0 +1,5 @@
+D:\Practice\C#\HYIP\HYIPV2\MODEL\bin\Debug\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\MODEL\bin\Debug\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\MODEL\obj\Debug\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\MODEL\obj\Debug\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache

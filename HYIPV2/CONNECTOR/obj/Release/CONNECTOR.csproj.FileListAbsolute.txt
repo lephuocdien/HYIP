@@ -1,0 +1,7 @@
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Release\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Release\CONNECTOR.pdb
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Release\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\bin\Release\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Release\CONNECTOR.csprojResolveAssemblyReference.cache
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Release\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\CONNECTOR\obj\Release\CONNECTOR.pdb

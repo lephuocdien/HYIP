@@ -1,0 +1,4 @@
+D:\Practice\C#\HYIP\HYIPV2\MODEL\bin\x64\Release\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\MODEL\bin\x64\Release\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\MODEL\obj\x64\Release\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\MODEL\obj\x64\Release\MODEL.pdb

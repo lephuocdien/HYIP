@@ -1,0 +1,9 @@
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\BUS.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\BUS.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\CONNECTOR.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\Debug\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\Debug\BUS.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\Debug\BUS.pdb

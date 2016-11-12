@@ -1,0 +1,9 @@
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\BUS.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\BUS.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\CONNECTOR.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\MODEL.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\CONNECTOR.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\bin\x64\Release\MODEL.pdb
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\x64\Release\BUS.csprojResolveAssemblyReference.cache
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\x64\Release\BUS.dll
+D:\Practice\C#\HYIP\HYIPV2\BUS\obj\x64\Release\BUS.pdb
